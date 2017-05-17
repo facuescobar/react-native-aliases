@@ -1,0 +1,3 @@
+rootProject.name = 'RNaliases'
+
+include ':app'
