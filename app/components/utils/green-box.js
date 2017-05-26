@@ -11,14 +11,14 @@ export default class BlueBox extends Component {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'darkblue',
+        backgroundColor: 'darkgreen',
       }}
         >
           <Text style={{
             fontSize: 20,
             color:'white'
           }}>
-            {'Blue Box'}
+            {'Green Box'}
           </Text>
       </View>
     );
